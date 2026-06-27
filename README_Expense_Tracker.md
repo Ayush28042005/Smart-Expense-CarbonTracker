@@ -1,10 +1,10 @@
-# 💰 Smart Expense + Carbon Footprint Tracker
+# Smart Expense + Carbon Footprint Tracker
 
 A Python-based command-line application that helps users track their daily expenses while also calculating the carbon footprint of each expense based on its category.
 
 ---
 
-## ✨ Features
+## Features
 
 - Add multiple users
 - Switch between users
@@ -17,7 +17,7 @@ A Python-based command-line application that helps users track their daily expen
 
 ---
 
-## 🌍 Carbon Footprint Categories
+## Carbon Footprint Categories
 
 | Category | Carbon Level |
 |---|---|
@@ -30,7 +30,7 @@ A Python-based command-line application that helps users track their daily expen
 
 ---
 
-## 🧠 OOP Concepts Used
+## OOP Concepts Used
 
 | Concept | Where Used |
 |---|---|
@@ -44,7 +44,7 @@ A Python-based command-line application that helps users track their daily expen
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Smart-Expense-Carbon-Tracker/
@@ -60,7 +60,7 @@ Smart-Expense-Carbon-Tracker/
 
 ---
 
-## 🚀 How To Run
+## How To Run
 
 ```bash
 python main.py
@@ -70,7 +70,6 @@ No external libraries required. Just Python 3.x!
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Ayush Saini**
-B.Tech CSE-AIML | 3rd Year
