@@ -1,0 +1,50 @@
+{
+    "users": [
+        {
+            "name": "Ayush",
+            "expenses": [
+                {
+                    "description": "Bought petrol",
+                    "amount": 500.0,
+                    "category": "fuel",
+                    "date": "27-06-2026 10:06"
+                },
+                {
+                    "description": "bus ticket",
+                    "amount": 200.0,
+                    "category": "transport",
+                    "date": "27-06-2026 10:06"
+                },
+                {
+                    "description": "Groceries",
+                    "amount": 800.0,
+                    "category": "food",
+                    "date": "27-06-2026 10:06"
+                }
+            ]
+        },
+        {
+            "name": "Rahul",
+            "expenses": [
+                {
+                    "description": "Railway",
+                    "amount": 600.0,
+                    "category": "transport",
+                    "date": "27-06-2026 10:08"
+                },
+                {
+                    "description": "Vegetables",
+                    "amount": 200.0,
+                    "category": "food",
+                    "date": "27-06-2026 10:08"
+                },
+                {
+                    "description": "clothes",
+                    "amount": 1000.0,
+                    "category": "shopping",
+                    "date": "27-06-2026 10:08"
+                }
+            ]
+        }
+    ]
+}
