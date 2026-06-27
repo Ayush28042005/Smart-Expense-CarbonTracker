@@ -66,7 +66,7 @@ Smart-Expense-Carbon-Tracker/
 python main.py
 ```
 
-No external libraries required. Just Python 3.x!
+No external libraries required.
 
 ---
 
